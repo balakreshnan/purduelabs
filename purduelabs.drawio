@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T16:04:23.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="hXdlMgpPXqUJ6toJKFbS" version="16.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-27T16:04:41.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="PUcVtwvrzQoyG2zbEaaX" version="16.6.1" type="github" pages="3">
   <diagram id="OaYX371y1wo_LZSLDKuH" name="SmartFactory">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -462,10 +462,10 @@
           <mxGeometry x="254.32" y="296.4" width="60" height="33.6" as="geometry" />
         </mxCell>
         <mxCell id="nHvinFfK1Noj-uwHTzZI-33" value="OT Firewall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
-          <mxGeometry x="325" y="214" width="65" height="30" as="geometry" />
+          <mxGeometry x="324" y="224" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHvinFfK1Noj-uwHTzZI-34" value="IT Firewall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
-          <mxGeometry x="422.75" y="300" width="65" height="30" as="geometry" />
+          <mxGeometry x="422.75" y="294" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHvinFfK1Noj-uwHTzZI-35" value="IoT Hub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
           <mxGeometry x="510" y="223" width="65" height="30" as="geometry" />
