@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T16:01:58.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="qJ0bvFBDpgIq3-tRFqg5" version="16.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-27T16:04:06.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="yWpa3HZtmLfZshjX1HTd" version="16.6.1" type="github" pages="3">
   <diagram id="OaYX371y1wo_LZSLDKuH" name="SmartFactory">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -655,6 +655,24 @@
         </mxCell>
         <mxCell id="nHvinFfK1Noj-uwHTzZI-94" value="Sound" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
           <mxGeometry x="9.499999999999986" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHvinFfK1Noj-uwHTzZI-95" value="Bread Board/ PCB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
+          <mxGeometry x="121.48" y="163.5" width="126.95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHvinFfK1Noj-uwHTzZI-96" value="Wind" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
+          <mxGeometry x="105" y="10" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHvinFfK1Noj-uwHTzZI-97" value="Solar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
+          <mxGeometry x="4.5" y="20" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHvinFfK1Noj-uwHTzZI-98" value="Temperature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
+          <mxGeometry x="44" y="80" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHvinFfK1Noj-uwHTzZI-99" value="Humidity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
+          <mxGeometry x="32" y="129" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHvinFfK1Noj-uwHTzZI-100" value="Light" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4pA-HR1xvWslqWZ-xb_-1">
+          <mxGeometry x="28" y="193.5" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
