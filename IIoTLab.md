@@ -16,6 +16,6 @@
 
 ## Architecture
 
-![Architecture](https://github.com/balakreshnan/purduelabs/blob/main/images/purduelabs-Industrial IoT Lab.jpg "Architecture")
+![Architecture](https://github.com/balakreshnan/purduelabs/blob/main/images/purduelabs-IndustrialIoTLab.jpg "Architecture")
 
 ## Architecture Explained
