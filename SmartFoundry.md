@@ -1,4 +1,4 @@
-# Purdue Smart Factory Architecture
+# Purdue Smart Foundry Architecture
 
 ## Smart Foundry Reference Architecture
 
