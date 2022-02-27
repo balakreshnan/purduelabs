@@ -1,10 +1,10 @@
 # Purdue Smart Factory Architecture
 
-## Smart Factory Reference Architecture
+## Smart Foundry Reference Architecture
 
 ## Use Case
 
-- Purdue smart factory for students to learn
+- Purdue smart Foundry for students to learn
 - Modular approach to learn
 - Agility to change and try various configurations
 - Ability to change the line as needed
@@ -17,7 +17,7 @@
 
 ## Architecture
 
-![Architecture](https://github.com/balakreshnan/purduelabs/blob/main/images/purduelabs-SmartFactory.jpg "Architecture")
+![Architecture](https://github.com/balakreshnan/purduelabs/blob/main/images/purduelabs-SmartFoundry.jpg "Architecture")
 
 ## Architecture Explained
 
